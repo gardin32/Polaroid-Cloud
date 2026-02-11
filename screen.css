@@ -4,6 +4,10 @@ body {
     font-family: "Inter", sans-serif;
 }
 
+h2 {
+    font-size: 70px;
+}
+
 h3 {
     font-size: 30px;
 }
