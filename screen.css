@@ -34,3 +34,8 @@ main {
     text-align: center;
     min-height: 800px;
 }
+
+button {
+    background-color: var(--accent-color);
+    color: var(var(--main-bg-color));
+}
