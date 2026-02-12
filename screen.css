@@ -19,7 +19,7 @@ header {
     margin-bottom: 100px;
 }
 
-header h2 {
+header h1 {
     margin: 0
     font-weight: normal;
 }
@@ -28,4 +28,9 @@ main {
     background: url(polaroid.png) no-repeat center 100px;
     margin: 0 auto;
     width: 1000px;
+}
+
+.hero {
+    text-align: center;
+    min-height: 800px;
 }
