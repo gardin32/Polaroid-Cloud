@@ -42,8 +42,8 @@ hero h2 {
     margin: 0;
 }
 
-.details ul li {
-    background: url('qrcode-solid.svg') no-repeat center left;
+.details ul li.wifi {
+    background: url('wifi-solid.svg') no-repeat center left;
     list-style-type: none;
     margin: 10px 0;
     padding: 0 0 0 40px
