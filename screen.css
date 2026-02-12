@@ -6,7 +6,6 @@ body {
 
 h1 {
     font-size: 15px;
-    font-style: 400;
 }
 
 h2 {
@@ -21,4 +20,9 @@ h3 {
 
 .cta {
     text-align: center;
+}
+
+button {
+    background-color: red;
+    color: white;
 }
