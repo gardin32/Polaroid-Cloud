@@ -4,6 +4,10 @@ body {
     font-family: "Inter", sans-serif;
 }
 
+h1 {
+    font-size: 15px;
+}
+
 h2 {
     font-size: 70px;
     text-align: center;
