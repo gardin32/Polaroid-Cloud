@@ -43,7 +43,7 @@ hero h2 {
 }
 
 .details ul li {
-    background: url('qrcode-solid.png') no-repeat center left;
+    background: url('qrcode-solid.svg') no-repeat center left;
     list-style-type: none;
     margin: 10px 0;
     padding: 0 0 0 40px
