@@ -48,3 +48,24 @@ hero h2 {
     margin: 10px 0;
     padding: 0 0 0 35px
 }
+
+.details ul li.cloud {
+    background: url('cloud-arrow-up-solid.svg') no-repeat center left;
+    list-style-type: none;
+    margin: 10px 0;
+    padding: 0 0 0 35px
+}
+
+.details ul li.qr {
+    background: url('qrcode-solid.svg') no-repeat center left;
+    list-style-type: none;
+    margin: 10px 0;
+    padding: 0 0 0 35px
+}
+
+.details ul li.photo {
+    background: url('photo-film-solid.svg') no-repeat center left;
+    list-style-type: none;
+    margin: 10px 0;
+    padding: 0 0 0 35px
+}
