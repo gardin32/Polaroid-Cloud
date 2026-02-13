@@ -69,8 +69,3 @@ hero h2 {
     margin: 10px 0;
     padding: 0 0 0 35px
 }
-
-.button {
-    background-color: var(--accent-color);
-    color: var(--main-bg-color);
-} 
